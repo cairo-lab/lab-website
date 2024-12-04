@@ -54,13 +54,15 @@
 
 # Routine Histopathologic Analysis of Hip and Knee Bone Specimens After Total Joint Arthroplasty    
 - id: doi:10.5435/JAAOS-D-21-01053
+  type: paper
   tags:
     - TKA
     - THA
     - osteoarthritis
 
 # Does Time to Reimplantation After Explant for Prosthetic Joint Infection Influence the Likelihood of Successful Outcomes at 2 Years?
-- id: doi: 10.1016/j.arth.2022.02.025
+- id: doi:10.1016/j.arth.2022.02.025
+  type: paper
   tags:
     - TKA
     - THA
@@ -68,7 +70,7 @@
 # Deep Learning and Imaging for the Orthopaedic Surgeon
 - id: doi:10.2106/JBJS.21.01387
   type: paper
-  description: Research is now replete with CNN papers. This paper skips the equations and explains how these algorithms 'see' in a way a surgeon can understand. 
+  description: Research is now replete with CNN papers. This paper skips the equations and explains how these algorithms ``see`` in a way a surgeon can understand. 
   image: https://images.journals.lww.com/jbjsjournal/Original.00004623-202209210-00010.fig5.jpeg
   tags:
     - deep learning
@@ -76,6 +78,7 @@
     
 # Risk-Adjusted Cost Performance for 90-Day Total Knee Arthroplasty Episodes
 - id: doi:10.2106/JBJS.19.01017
+  type: paper
   tags:
     - TKA
     - osteoarthritis
