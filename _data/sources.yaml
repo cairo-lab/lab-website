@@ -32,7 +32,7 @@
 # An Algorithmic Approach to Understanding Osteoarthritic Knee Pain
 - id: doi:10.2106/JBJS.OA.23.00039
   type: paper
-  description: How much of a osteoarthritis patients pain is structural? This work moves beyond traditional/human derived biomarkers of knee health and sees how much pain can be predicted by a CNN looking at a knee X-ray.
+  description: "How much of a osteoarthritis patient's pain is structural? This work moves beyond traditional/human derived biomarkers of knee health and sees how much pain can be predicted by a CNN looking at a knee X-ray."
   image: https://images.journals.lww.com/jbjsoa/Original.01960901-202312000-00002.F2.jpeg
   tags:
     - deep learning
@@ -53,7 +53,7 @@
     - OAI
 
 # Routine Histopathologic Analysis of Hip and Knee Bone Specimens After Total Joint Arthroplasty    
-- id: doi:10.5435/JAAOS-D-21-01053
+- id: doi:10.5435/jaaos-d-21-01053
   type: paper
   tags:
     - TKA
@@ -70,7 +70,7 @@
 # Deep Learning and Imaging for the Orthopaedic Surgeon
 - id: doi:10.2106/JBJS.21.01387
   type: paper
-  description: Research is now replete with CNN papers. This paper skips the equations and explains how these algorithms ``see`` in a way a surgeon can understand. 
+  description: 'Research is now replete with CNN papers. This paper skips the equations and explains how these algorithms "see" in a way a surgeon can understand.'
   image: https://images.journals.lww.com/jbjsjournal/Original.00004623-202209210-00010.fig5.jpeg
   tags:
     - deep learning
