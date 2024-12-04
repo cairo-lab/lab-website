@@ -14,6 +14,14 @@ phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
+med:
+  icon: fa-solid fa-user-graduate
+  description: Medical Student
+
+res:
+  icon: fa-solid fa-user-glasses
+  description: Resident
+
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
