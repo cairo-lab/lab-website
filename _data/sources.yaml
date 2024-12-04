@@ -1,26 +1,81 @@
+#The risk of shortcutting in deep learning algorithms for medical imaging research
 - id: doi:10.1038/s41598-024-79838-6
   type: paper
   description: Explores just how pernicious shortcutting can be when using CNNs on medical images. Ask deep learning to find a way to predict something strange from a set of images and far too often it can, whether it makes sense or not.
-  date: 2025-11-25
-  image: https://www.nature.com/articles/s41598-024-79838-6/figures/1
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-024-79838-6/MediaObjects/41598_2024_79838_Fig1_HTML.png
   tags:
     - open science
     - deep learning
     - shortcutting
+    - medical imaging
+    - OAI
   repo: cairo-lab/xray_fingerprints
 
+# Patient Satisfaction is Nearly 90% After Total Knee Arthroplasty; We Are Better Than We Were
+- id: doi:10.1016/j.arth.2024.11.038
+  type: paper
+  tags:
+    - TKA
+    - osteoarthritis
+  
+#
 - id: doi:10.1117/12.3005269
   type: poster
+  tags:
+    - deep learning
+    - machine learning
+    - shortcutting
+    - medical imaging
+    - OAI    
   image: https://www.spiedigitallibrary.org/ContentImages/Proceedings/12927/129272W/FigureImages/00186_PSISDG12927_129272W_page_5_1.jpg
-
+  
+# An Algorithmic Approach to Understanding Osteoarthritic Knee Pain
 - id: doi:10.2106/JBJS.OA.23.00039
   type: paper
+  description: How much of a osteoarthritis patients pain is structural? This work moves beyond traditional/human derived biomarkers of knee health and sees how much pain can be predicted by a CNN looking at a knee X-ray.
   image: https://images.journals.lww.com/jbjsoa/Original.01960901-202312000-00002.F2.jpeg
-
+  tags:
+    - deep learning
+    - pain
+    - osteoarthritis
+    - medical imaging
+    - OAI
+    
+# Do Patient-Reported Outcomes Reflect Objective Measures of Function? Implications for Total Knee Arthroplasty  
 - id: doi:10.1016/j.arth.2023.04.049
   type: paper
+  description: Patient-reported outcomes (PROs) are used in research, clinical practice, and by federal reimbursement models to assess outcomes for patients who have knee osteoarthritis (OA) and total knee arthroplasty (TKA). But do they reflect observed evaluation we see standardized functional tests?
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0883540323004059-gr1.jpg
+  tags:
+    - PRO
+    - TKA
+    - osteoarthritis
+    - OAI
 
+# Routine Histopathologic Analysis of Hip and Knee Bone Specimens After Total Joint Arthroplasty    
+- id: doi:10.5435/JAAOS-D-21-01053
+  tags:
+    - TKA
+    - THA
+    - osteoarthritis
+
+# Does Time to Reimplantation After Explant for Prosthetic Joint Infection Influence the Likelihood of Successful Outcomes at 2 Years?
+- id: doi: 10.1016/j.arth.2022.02.025
+  tags:
+    - TKA
+    - THA
+    
+# Deep Learning and Imaging for the Orthopaedic Surgeon
 - id: doi:10.2106/JBJS.21.01387
   type: paper
+  description: Research is now replete with CNN papers. This paper skips the equations and explains how these algorithms 'see' in a way a surgeon can understand. 
   image: https://images.journals.lww.com/jbjsjournal/Original.00004623-202209210-00010.fig5.jpeg
+  tags:
+    - deep learning
+    - medical imaging
+    
+# Risk-Adjusted Cost Performance for 90-Day Total Knee Arthroplasty Episodes
+- id: doi:10.2106/JBJS.19.01017
+  tags:
+    - TKA
+    - osteoarthritis
