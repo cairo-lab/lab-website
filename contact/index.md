@@ -15,12 +15,6 @@ Good science isn't solitary task. Please reach out.
   text="brandon@cairo-lab.org"
   link="brandon@cairo-lab.org"
 %}
-#{%
-#  include button.html
-#  type="phone"
-#  text="(555) 867-5309"
-#  link="+1-555-867-5309"
-#%}
 {%
   include button.html
   type="address"
@@ -30,25 +24,6 @@ Good science isn't solitary task. Please reach out.
 
 {% include section.html %}
 
-#{% capture col1 %}
-
-#{%
-#  include figure.html
-#  image="images/photo.jpg"
-#  caption="Lorem ipsum"
-#%}
-
-#{% endcapture %}
-
-#{% capture col2 %}
-
-#{%
-#  include figure.html
-#  image="images/photo.jpg"
-#  caption="Lorem ipsum"
-#%}
-
-#{% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
 
