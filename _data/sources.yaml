@@ -1,23 +1,30 @@
-- id: doi:10.1371/journal.pcbi.1007128
+- id: doi.org/10.1038/s41598-024-79838-6
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+  description: Explores just how pernicious shortcutting can be when using CNNs on medical images. Ask deep learning to find a way to predict something strange from a set of images and far too often it can, whether it makes sense or not.
+  date: 2025-11-25
+  image: https://www.nature.com/articles/s41598-024-79838-6/figures/1
+#  buttons:
+#    - type: source
+#      text: Source Code
+#      link: https://github.com/cairo-lab/xray_fingerprints
   tags:
     - open science
-    - collaboration
-  repo: greenelab/meta-review
+    - deep learning
+    - shortcutting
+  repo: cairo-lab/xray_fingerprints
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi.org/10.1117/12.3005269
+  type: poster
+  image: https://www.spiedigitallibrary.org/ContentImages/Proceedings/12927/129272W/FigureImages/00186_PSISDG12927_129272W_page_5_1.jpg
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi.org/10.2106/JBJS.OA.23.00039
+  type: paper
+  image: https://images.journals.lww.com/jbjsoa/Original.01960901-202312000-00002.F2.jpeg
+
+- id: doi.org/10.1016/j.arth.2023.04.049
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0883540323004059-gr1.jpg
+
+- id: doi.org/10.2106/JBJS.21.01387
+  type: paper
+  image: https://images.journals.lww.com/jbjsjournal/Original.00004623-202209210-00010.fig5.jpeg
