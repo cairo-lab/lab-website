@@ -1,9 +1,7 @@
 ---
 ---
 
-# cairo-lab's Website
-
-An engaging 1-3 sentence description of your lab.
+While all to often a marketing term, the techniques the press likes to call AI opens new doors in research. At its simplest it can mean bringing new scales to research based on medical images. At its best it can translate to algorithms that find patterns in health data beyond anything feasible before. Our lab is actively exploring all these facets.
 
 {% include section.html %}
 
@@ -11,7 +9,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our contributions to improving understanding in orthopaedics health.
 
 {%
   include button.html
@@ -34,7 +32,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Current projects.
 
 {%
   include button.html
@@ -59,7 +57,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Researchers, students, and collaborators.
 
 {%
   include button.html
