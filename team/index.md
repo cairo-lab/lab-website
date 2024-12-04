@@ -11,7 +11,10 @@ Good scince isn't a solo effort. Here's our lab and past students.
 
 {% include section.html %}
 
+Lab Founders
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
+
+Lab Contributors 
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
