@@ -2,7 +2,7 @@
 - id: doi:10.1038/s41598-024-79838-6
   type: paper
   description: Explores just how pernicious shortcutting can be when using CNNs on medical images. Ask deep learning to find a way to predict something strange from a set of images and far too often it can, whether it makes sense or not.
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-024-79838-6/MediaObjects/41598_2024_79838_Fig1_HTML.png
+  image: "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-024-79838-6/MediaObjects/41598_2024_79838_Fig1_HTML.png"
   tags:
     - open science
     - deep learning
