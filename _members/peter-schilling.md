@@ -1,6 +1,6 @@
 ---
 name: Peter Schilling 
-image: images/peter.jpg
+image: images/schilling.jpg
 affiliation: Dartmouth-Hitchcock Medical Center
 role: pi 
 aliases:

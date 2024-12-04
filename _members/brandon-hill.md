@@ -1,6 +1,6 @@
 ---
 name: Brandon Hill 
-image: images/brandon.jpg
+image: images/hill.jpg
 role: pi
 affiliation: Dartmouth-Hitchcock Medical Center 
 aliases:
