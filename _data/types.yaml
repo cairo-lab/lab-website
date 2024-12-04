@@ -19,7 +19,7 @@ med:
   description: Medical Student
 
 res:
-  icon: fa-solid fa-user-glasses
+  icon: fa-solid fa-glasses
   description: Resident
 
 undergrad:

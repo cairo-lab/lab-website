@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Good scince isn't a solo effort. Here's our lab and past students.
+Labs are fluid groups, but our work wouldn't have been possible without these folks.
 
 {% include section.html %}
 
