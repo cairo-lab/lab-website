@@ -28,6 +28,7 @@
     - OAI
     - TKA
     - THA
+    - sensors
 
 - title: The Genetics of Rotator Cuff Tears
   image: images/rot_cuff_tear_mri.jpg
@@ -54,12 +55,16 @@
   tags:
     - TKA
     - osteoporosis
+    - deep learning    
 
 - title: Federated Learning
   image: images/fed_learning.jpg
   description: Federated learning isn't new, but hasn't taken off. The solution may be simple and the applications broad.
   tags:
     - software
+    - tka
+    - tha
+    - robotics
 
 - title: Coronal Plane Alignment
   image: images/cpak.jpg
@@ -67,5 +72,6 @@
   tags:
     - software
     - TKA
+    - deep learning
 
 
