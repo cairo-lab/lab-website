@@ -1,15 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.48321/D1NH1D
-  title: Multimodal and Temporal Modeling Of Knee Osteoarthritis Progression
-  authors:
-  - Brandon G. Hill
-  publisher: DMPHub
-  date: '2023-01-01'
-  link: https://doi.org/g8tq4t
-  orcid: 0000-0002-4140-0460
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/j.arth.2023.04.049
   title: Do Patient-Reported Outcomes Reflect Objective Measures of Function? Implications
     for Total Knee Arthroplasty
