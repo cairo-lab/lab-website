@@ -14,7 +14,7 @@ Our contributions to improving understanding in orthopaedics health.
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See what we are working on"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -32,11 +32,11 @@ Our contributions to improving understanding in orthopaedics health.
 
 {% capture text %}
 
-Current projects.
+Publications
 
 {%
   include button.html
-  link="projects"
+  link="publications"
   text="Browse our projects"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -49,7 +49,7 @@ Current projects.
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Our Projects"
+  title="Our Publications"
   flip=true
   style="bare"
   text=text
