@@ -1,7 +1,7 @@
 ---
 ---
 
-While all to often a marketing term, the techniques the press likes to call AI opens new doors in research. At its simplest it can mean bringing new scales to research based on medical images. At its best it can translate to algorithms that find patterns in health data beyond anything feasible before. Our lab is actively exploring all these facets.
+While all too often a marketing term, the techniques the press likes to call AI opens new doors in research. At its simplest it can mean bringing new scales to research based on medical images. At its best it can translate to algorithms that find patterns in health data beyond anything feasible before. Our lab is actively exploring all these facets.
 
 {% include section.html %}
 
