@@ -37,7 +37,7 @@ Publications
 {%
   include button.html
   link="publications"
-  text="Browse our projects"
+  text="Browse our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
