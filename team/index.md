@@ -17,7 +17,7 @@ Lab Founders
 Lab Contributors 
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html background="images/background.svg" dark=true %}
 
 
 {% include section.html %}
