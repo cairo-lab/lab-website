@@ -82,3 +82,7 @@
   tags:
     - TKA
     - osteoarthritis
+
+# Data plan from: Multimodal and Temporal Modeling Of Knee Osteoarthritis Progression grant
+- id: doi:10.48321/D1NH1D
+  remove: true
