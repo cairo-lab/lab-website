@@ -2,15 +2,13 @@
 title: Center for AI research in Orthopaedics
 subtitle: 
 description: Bringing advanced analytics, and scale to orthopaedics research.
-header: images/background.jpg
-footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: brandon@cairo-lab.org
-  orcid: 0000-0002-4140-0460
-  google-scholar: mPfIousAAAAJ
+#  email: brandon@cairo-lab.org
+#  orcid: 0000-0002-4140-0460
+#  google-scholar: mPfIousAAAAJ
   github: cairo-lab
 #  twitter: cairo-lab
 #  youtube: cairo-lab
