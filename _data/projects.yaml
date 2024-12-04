@@ -1,47 +1,71 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Deep Learning Shortcutting on Medical Images
+  subtitle: A Cautionary Tale
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/shortcutting.jpg
+  description: Researchers are aware of shortcutting, but do they know how bad it really is? In two projects so far, we have explored how medical images have more subtlties than most realize. It goes far beyond race and gender, but all kinds of strange patterns deep learning can find. This includes the year of an X-ray and the manufacturer. This makes it easy to claim all kinds of things can be predicted from an image. 
+  repo: cairo-lab/xray_fingerprints
   tags:
-    - resource
+    - source code
+    - deep learning
+    - OAI
+    - X-ray
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: pyOAI
+  subtitle: Making the OAI dataset easier to use
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/python.jpg
+  description: There is no need for everyone who starts using the Osteoarthritis Initiative (OAI) dataset to start from scratch. This open-source Python library makes it easier jump into asking interesting questions faster. Feel free to use it, just thank us in the paper credits.
+  repo: cairo-lab/pyOAI
   tags:
-    - resource
+    - source code
+    - OAI
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Patient Reported Outcomes (PROs)
+  subtitle: A Messy Metric
+  image: images/pros.jpg
+  description: As we try measure patient outcomes from procedures like total knee arthorplasty PROs are the gold standard. While patient input through a survey matters, it is messy. We've been confirming just how flawed it can be as well as exploring potential additional metrics.
   tags:
-    - resource
-    - publication
+    - OAI
+    - TKA
+    - THA
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: The Genetics of Rotator Cuff Tears
+  image: images/rot_cuff_tear_mri.jpg
+  description: A collaboration with our Utah based VA colleagues.
+  tags:
+    - genetics
+    - MRI
+    - deep learning
+    - automation
+
+- title: Keen Pain and Medical Images
+  image: images/knee_pain.jpg
+  description: Radiologists and ortho docs make scales to classify how bad structural damage is to a knee. But how does that match the pain felt by a patient? Can CNNs see things humans miss?
+  tags:
+    - TKA
+    - deep learning
+    - X-ray
+    - MRI
+    - pain
+    
+- title: Detecting Bone Quality
+  image: images/bone_quality.jpg
+  description: What if a surgeon could know the quality of the bone before starting surgery? What if osteoporosis could be detected without a dual-energy xray absorptiometry (DEXA) scan?
+  tags:
+    - TKA
+    - osteoporosis
+
+- title: Federated Learning
+  image: images/fed_learning.jpg
+  description: Federated learning isn't new, but hasn't taken off. The solution may be simple and the applications broad.
   tags:
     - software
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Coronal Plane Alignment
+  image: images/cpak.jpg
+  description: The debates rage on for what is the optimal coronal plane alignment knee (CPAK) strategy. Despite decades of research, each lab uses its own interpretations of how to measure alignment. How about common tool?
   tags:
     - software
+    - TKA
+
+
