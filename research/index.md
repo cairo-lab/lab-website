@@ -14,7 +14,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Highlighted
 
-{% include citation.html lookup="The Risk of Shortcutting in Deep Learning Algorithms in Medical Research" style="rich" %}
+{% include citation.html lookup="doi:10.1038/s41598-024-79838-6" style="rich" %}
 
 {% include section.html %}
 
