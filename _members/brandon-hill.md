@@ -2,7 +2,7 @@
 name: Brandon Hill 
 image: images/hill.jpg
 role: pi
-affiliation: Dartmouth-Hitchcock Medical Center 
+affiliation: Dartmouth-Hitchcock Medical Center, White River Junction VAMC 
 aliases:
   - Brandon G. Hill
   - B. Hill 
