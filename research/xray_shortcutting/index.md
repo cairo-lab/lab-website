@@ -11,6 +11,7 @@
 {% include section.html %}
 
 **Background**
+
 This work evolved from our work in training CNNs to predict pain from bone structure in X-rays. We started eager. What if we give a CNN no preconceptions and just ask it to learn how to predict patient pain just from an X-ray. The result was this paper:
 
 {% include citation.html lookup="doi:10.2106/JBJS.OA.23.00039" style="rich" %}
@@ -19,6 +20,7 @@ As we continued to work on other projects we started to get suspicious. Lots of 
 
 
 **Shortcutting**
+
 This work examines the problem of shortcutting when deep learning models are used on medical images for research.
 
 Quite simply shortcutting is when a DL model makes the right decision but for the wrong reasons.
@@ -50,3 +52,5 @@ How obvious are the patterns in images? We look as simple pixel patterns that wo
 
 Then we probed more deeply looking at what CNNs were and weren't learning. The results shocked us. Somehow the CNN could even make a good guess at what year an X-ray was taken. How?
 {% include citation.html lookup="doi:10.1038/s41598-024-79838-6" style="rich" %}
+We've release the source code for this work here: {% include button.html type="github" link="xray_fingerprints" icon="fa-brands fa-github" text="Check it out on GitHub" flip=true %}
+
