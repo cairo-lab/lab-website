@@ -2,7 +2,7 @@
 ---
 {% include section.html size="full" %}
 
-{% include figure.html image="images/python_plain.png" width="100%" %}
+{% include figure.html image="images/python_plain.png" width="300px" %}
 
 {% include section.html %}
 
