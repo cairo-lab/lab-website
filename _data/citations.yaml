@@ -65,7 +65,7 @@
   type: paper
   description: Research is now replete with CNN papers. This paper skips the equations
     and explains how these algorithms "see" in a way a surgeon can understand.
-  image: https://images.journals.lww.com/jbjsjournal/Original.00004623-202209210-00010.fig5.jpeg
+  image: images/cnns_see_xrays.png
   tags:
   - deep learning
   - medical imaging
@@ -166,7 +166,7 @@
   - TKA
   - THA
   - osteoarthritis
-  images: images/jaaos.jpg
+  image: images/jaaos.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.arth.2022.02.025
