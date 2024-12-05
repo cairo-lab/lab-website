@@ -87,6 +87,21 @@
     - osteoarthritis
   image: images/90_day.jpg
 
+- title: An Investigation of the Relationship between State- and Person-Level Arthroplasty-based Opioid Prescribing Habits and Opioid Abuse Prevalence
+  date: 2023-03-01
+  publisher: AAOS
+  authors:
+    - Paul Werth
+    - Sean Lui
+    - Samuel Kunkel
+    - Brandon Hill
+    - David Jevsevar
+  description: A look at how tightly population opioid abuse correlates to orthopaedic prescription levels.
+  link: https://index.mirasmart.com/aaos2023/PDFfiles/AAOS2023-005523.PDF
+  tags:
+    - pain
+  image: images/aaos_conf.png
+  
 # Data plan from: Multimodal and Temporal Modeling Of Knee Osteoarthritis Progression grant
 - id: doi:10.48321/D1NH1D
   remove: true
