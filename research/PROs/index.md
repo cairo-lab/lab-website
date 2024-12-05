@@ -3,7 +3,7 @@
 
 {% include section.html size="full" %}
 
-{% include figure.html image="images/pros.png" width="400px" %}
+{% include figure.html image="images/pros.jpg" width="400px" %}
 
 {% include section.html %}
 
