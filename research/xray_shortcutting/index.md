@@ -1,5 +1,5 @@
---
---
+---
+---
 
 {% include section.html %}
 This work examines the problem of shortcutting when deep learning models are used on medical images for research.
