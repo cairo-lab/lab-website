@@ -19,12 +19,12 @@ Check it out: {%
 %}
 
 **Included:**
-* Parse all SAS files into Pandas dataframe
-* Save files in a stable binary format (not pickel!)
-* Even parse some documentation PDFs to extract information unique to them
-* Moves data to multi-level index so that a single variable name covers all visit (but visits are their own level)
-* Summarizes data
-* Maintains the different types of SAS missing values even though it isn't native to Pandas
-* Optimizes storage types for fast loading, reduced memory footprint
+- Parse all SAS files into Pandas dataframe
+- Save files in a stable binary format (not pickel!)
+- Even parse some documentation PDFs to extract information unique to them
+- Moves data to multi-level index so that a single variable name covers all visit (but visits are their own level)
+- Summarizes data
+- Maintains the different types of SAS missing values even though it isn't native to Pandas
+- Optimizes storage types for fast loading, reduced memory footprint
 
 The only request in using this library is that you mention it in the acknowledgements when you publish. Maintaining this code takes time from research work. Doing so is worth it if more people benefit and contribute.
