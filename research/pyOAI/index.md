@@ -13,8 +13,7 @@ Check it out: {%
   type="github"
   link="pyOAI"
   icon="fa-brands fa-github"
-  text="Follow us on GitHub"
-  tooltip="Follow us on GitHub for new releases"
+  text="Check it out on GitHub"
   flip=true
 %}
 
