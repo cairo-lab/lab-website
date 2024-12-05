@@ -24,7 +24,7 @@ Our contributions to improving understanding in orthopaedics health.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -47,7 +47,7 @@ Publications
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/publications.png"
   link="projects"
   title="Our Publications"
   flip=true
@@ -72,7 +72,7 @@ Researchers, students, and collaborators.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.jpg"
   link="team"
   title="Our Team"
   text=text
