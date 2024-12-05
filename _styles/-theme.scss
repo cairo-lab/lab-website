@@ -3,8 +3,8 @@
 
 // colors
 [data-dark="false"] {
-  --primary: #00664F;
-  --secondary: #6ECEB2;
+  --primary: #00664F; // Evergreen
+  --secondary: #6ECEB2; // Spruce
   --text: #000000;
   --background: #ffffff;
   --background-alt: #fafafa;
@@ -14,8 +14,8 @@
   --overlay: #00000020;
 }
 [data-dark="true"] {
-  --primary: #B1DDD2;
-  --secondary: #00664F;
+  --primary: #B1DDD2; // Spruce Light
+  --secondary: #00664F; // Evergreen
   --text: #ffffff;
   --background: #181818;
   --background-alt: #1c1c1c;
