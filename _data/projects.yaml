@@ -20,6 +20,7 @@
   tags:
     - source code
     - OAI
+  link: research/pyOAI
 
 - title: Patient Reported Outcomes (PROs)
   subtitle: A Messy Metric
@@ -30,6 +31,7 @@
     - TKA
     - THA
     - sensors
+  link: research/PROs
 
 - title: The Genetics of Rotator Cuff Tears
   image: images/rot_cuff_tear_mri.jpg
@@ -39,8 +41,9 @@
     - MRI
     - deep learning
     - automation
+  link: research/RotatorCuff
 
-- title: Keen Pain and Medical Images
+- title: Knee Pain and Medical Images
   image: images/knee_pain.jpg
   description: Radiologists and ortho docs make scales to classify how bad structural damage is to a knee. But how does that match the pain felt by a patient? Can CNNs see things humans miss?
   tags:
@@ -49,6 +52,7 @@
     - X-ray
     - MRI
     - pain
+  link: research/SeeingPain
     
 - title: Detecting Bone Quality
   image: images/bone_quality.jpg
@@ -57,6 +61,7 @@
     - TKA
     - osteoporosis
     - deep learning    
+  link: research/BoneQuality
 
 - title: Federated Learning
   image: images/fed_learning.jpg
@@ -66,6 +71,7 @@
     - tka
     - tha
     - robotics
+  link: research/FedLearning
 
 - title: Coronal Plane Alignment
   image: images/cpak.jpg
@@ -74,5 +80,6 @@
     - software
     - TKA
     - deep learning
+  link: research/CPAK
 
 
