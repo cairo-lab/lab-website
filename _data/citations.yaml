@@ -42,7 +42,7 @@
   description: How much of a osteoarthritis patient's pain is structural? This work
     moves beyond traditional/human derived biomarkers of knee health and sees how
     much pain can be predicted by a CNN looking at a knee X-ray.
-  image: https://images.journals.lww.com/jbjsoa/Original.01960901-202312000-00002.F2.jpeg
+  image: images/pred_pain.jpg
   tags:
   - deep learning
   - pain
@@ -87,6 +87,7 @@
   tags:
   - TKA
   - osteoarthritis
+  image: images/90_day.jpg
 - id: doi:10.1038/s41598-024-79838-6
   title: The risk of shortcutting in deep learning algorithms for medical imaging
     research
@@ -101,7 +102,7 @@
   description: Explores just how pernicious shortcutting can be when using CNNs on
     medical images. Ask deep learning to find a way to predict something strange from
     a set of images and far too often it can, whether it makes sense or not.
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-024-79838-6/MediaObjects/41598_2024_79838_Fig1_HTML.png
+  image: images/shortcutting.jpg
   tags:
   - open science
   - deep learning
@@ -123,6 +124,7 @@
   date: '2024-11-01'
   link: https://doi.org/g8tq48
   type: paper
+  image: images/j_of_arthro.jpg
   tags:
   - TKA
   - osteoarthritis
@@ -164,6 +166,7 @@
   - TKA
   - THA
   - osteoarthritis
+  images: images/jaaos.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.arth.2022.02.025
@@ -182,5 +185,6 @@
   tags:
   - TKA
   - THA
+  image: images/j_of_arthro.jpg
   plugin: sources.py
   file: sources.yaml
