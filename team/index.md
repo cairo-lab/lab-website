@@ -14,8 +14,14 @@ Labs are fluid groups, but our work wouldn't have been possible without these fo
 Lab Founders
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 
-Lab Contributors 
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+Resdents
+{% include list.html data="members" component="portrait" filter="role == 'res'" %}
+
+Students
+{% include list.html data="members" component="portrait" filter="role == 'med'" %}
+
+Collaaborators
+{% include list.html data="members" component="portrait" filter="role == 'collab'" %}
 
 {% include section.html background="images/background.svg" dark=true %}
 

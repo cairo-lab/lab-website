@@ -7,3 +7,10 @@ links:
   linkedin: anthonyzou 
 ---
 
+**Medical School**
+
+New York University School of Medicine
+
+**Post Residency**
+Adult Reconstructive Surgery Fellowship at Columbia University
+

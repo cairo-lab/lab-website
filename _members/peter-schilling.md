@@ -1,7 +1,7 @@
 ---
 name: Peter Schilling 
 image: images/schilling.jpg
-affiliation: Dartmouth-Hitchcock Medical Center
+affiliation: Dartmouth-Hitchcock Medical Center, White River Junction VAMHC
 role: pi 
 aliases:
   - Peter L. Schilling 
