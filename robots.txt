@@ -1,1 +1,1 @@
-Sitemap: https://cairo-lab.github.io/lab-website/sitemap.xml
+Sitemap: http://cairo-lab.org/sitemap.xml
