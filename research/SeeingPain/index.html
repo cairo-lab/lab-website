@@ -456,11 +456,97 @@
   
 
   <section class="background" data-size="page">
-    <p>Radiologists and ortho docs make scales to classify how bad structural damage is to a knee. But how does that match the pain felt by a patient? Can CNNs see things humans miss?</p>
+    <figure class="figure">
+  <a class="figure-image" aria-label="figure link">
+    <img src="/images/knee_pain.jpg" style="
+        width: 500px;
+        max-height: unset;
+      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  </a>
+  
+</figure>
+
+<p>Radiologists and ortho docs make scales to classify how bad structural damage is to a knee. But how does that match the pain felt by a patient? Can CNNs see things humans miss?</p>
 
 <p>We started eager. What if we give a CNN no preconceptions and just ask it to learn how to predict patient pain just from an X-ray. The result was this paper:</p>
 
-<p>FRom there, we wondered if a CNN could see more pain in an MRI. But before diving into all the work to train on MRIs, why don’t we look at how well structural features determined by humans (i.e. trained radiologgists and orthopaedic surgeons) to indicate knee health correspond to patient pain. That led to this paper:</p>
+<div class="citation-container">
+  <div class="citation">
+    
+      <a href="https://doi.org/g8tq4m" class="citation-image" aria-label="An Algorithmic Approach to Understanding Osteoarthritic Knee Pain">
+        <img src="/images/pred_pain.jpg" alt="An Algorithmic Approach to Understanding Osteoarthritic Knee Pain" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+      </a>
+    
+
+    <div class="citation-text">
+      
+      <i class="icon fa-solid fa-scroll"></i>
+
+      <a href="https://doi.org/g8tq4m" class="citation-title">
+        An Algorithmic Approach to Understanding Osteoarthritic Knee Pain
+      </a>
+
+      <div class="citation-authors" tabindex="0">
+        Brandon G. Hill, Travis Byrum, Anthony Zou, Peter L. Schilling
+
+      </div>
+
+      <div class="citation-details">
+        <span class="citation-publisher">JBJS Open Access</span>
+         · 
+        <span class="citation-date">01 Oct 2023</span>
+         · 
+        <span class="citation-id">doi:10.2106/JBJS.OA.23.00039</span>
+      </div>
+
+      
+        
+          <div class="citation-description">
+            How much of a osteoarthritis patient’s pain is structural? This work moves beyond traditional/human derived biomarkers of knee health and sees how much pain can be predicted by a CNN looking at a knee X-ray.
+
+          </div>
+        
+
+        
+
+        
+          
+
+
+  <div class="tags" data-link="/research/SeeingPain/">
+    
+      <a href="/research/SeeingPain/?search=%22tag:%20deep-learning%22" class="tag" data-tooltip='Show items with the tag "deep-learning"'>
+        deep-learning
+      </a>
+    
+      <a href="/research/SeeingPain/?search=%22tag:%20pain%22" class="tag" data-tooltip='Show items with the tag "pain"'>
+        pain
+      </a>
+    
+      <a href="/research/SeeingPain/?search=%22tag:%20osteoarthritis%22" class="tag" data-tooltip='Show items with the tag "osteoarthritis"'>
+        osteoarthritis
+      </a>
+    
+      <a href="/research/SeeingPain/?search=%22tag:%20medical-imaging%22" class="tag" data-tooltip='Show items with the tag "medical-imaging"'>
+        medical-imaging
+      </a>
+    
+      <a href="/research/SeeingPain/?search=%22tag:%20oai%22" class="tag" data-tooltip='Show items with the tag "oai"'>
+        oai
+      </a>
+    
+  </div>
+
+
+        
+      
+    </div>
+  </div>
+</div>
+
+<p>From there, we wondered if a CNN could see more pain in an MRI. But before diving into all the work to train on MRIs, why don’t we look at how well structural features determined by humans (i.e. trained radiologgists and orthopaedic surgeons) to indicate knee health correspond to patient pain. That led to our next paper (wating for publication date).</p>
+
+<p>It seems that neither human or computers can find structures in the knee that are predictive of pain. If you are a clinician and thinking the human side of this is obvious, it is known. It just hasn’t been confirmed statistically on this scale (almost 5,000 patients).</p>
   </section>
 
 
