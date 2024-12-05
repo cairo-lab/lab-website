@@ -1,7 +1,24 @@
 ---
 ---
 
+{%
+  include figure.html
+  image="images/shortcutting.jpg"
+  caption="AI generated this image after summarizing our article. It needs to work on spelling."
+  width="400px"
+%}
+
 {% include section.html %}
+
+** Background **
+This work evolved from our work in training CNNs to predict pain from bone structure in X-rays. We started eager. What if we give a CNN no preconceptions and just ask it to learn how to predict patient pain just from an X-ray. The result was this paper:
+
+{% include citation.html lookup="doi:10.2106/JBJS.OA.23.00039" style="rich" %}
+
+As we continued to work on other projects we started to get suspicious. Lots of papers are getting similar results. Predicting things in the accuracy range of mid-60%. First, this started with trying to make sure the PHI blackout marks on the X-rays we were using to didn't have an obvious pattern that might indicate where they were from. Then we saw a paper from MIT and Harvard that showed how well CNN could see a patient's self reported race in an image. If CNNs can see race then they could use imbalance between races in the data to "cheat". But it isn't just race. What about the X-ray/MRI machine itself? Do different makes and models have detectable signatures? A lot of critical questions arose.
+
+
+** Shortcutting **
 This work examines the problem of shortcutting when deep learning models are used on medical images for research.
 
 Quite simply shortcutting is when a DL model makes the right decision but for the wrong reasons.
@@ -28,5 +45,8 @@ The burden of proof just goes way up when it comes to using models for the disco
 
 This work has spanned two publications so far:
 
-{% include citation.html lookup="doi:10.1117/12.3005269" %}
-{% include citation.html lookup="doi:10.1038/s41598-024-79838-6" %}
+How obvious are the patterns in images? We look as simple pixel patterns that would be apparent at even basic statistical levels. Each machine has its own statistical signature.
+{% include citation.html lookup="doi:10.1117/12.3005269" style="rich" %}
+
+Then we probed more deeply looking at what CNNs were and weren't learning. The results shocked us. Somehow the CNN could even make a good guess at what year an X-ray was taken. How?
+{% include citation.html lookup="doi:10.1038/s41598-024-79838-6" style="rich" %}
