@@ -10,7 +10,7 @@
 
 {% include section.html %}
 
-** Background **
+**Background**
 This work evolved from our work in training CNNs to predict pain from bone structure in X-rays. We started eager. What if we give a CNN no preconceptions and just ask it to learn how to predict patient pain just from an X-ray. The result was this paper:
 
 {% include citation.html lookup="doi:10.2106/JBJS.OA.23.00039" style="rich" %}
@@ -18,7 +18,7 @@ This work evolved from our work in training CNNs to predict pain from bone struc
 As we continued to work on other projects we started to get suspicious. Lots of papers are getting similar results. Predicting things in the accuracy range of mid-60%. First, this started with trying to make sure the PHI blackout marks on the X-rays we were using to didn't have an obvious pattern that might indicate where they were from. Then we saw a paper from MIT and Harvard that showed how well CNN could see a patient's self reported race in an image. If CNNs can see race then they could use imbalance between races in the data to "cheat". But it isn't just race. What about the X-ray/MRI machine itself? Do different makes and models have detectable signatures? A lot of critical questions arose.
 
 
-** Shortcutting **
+**Shortcutting**
 This work examines the problem of shortcutting when deep learning models are used on medical images for research.
 
 Quite simply shortcutting is when a DL model makes the right decision but for the wrong reasons.
