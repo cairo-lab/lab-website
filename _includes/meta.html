@@ -11,8 +11,8 @@
 {% if title %}
   {% assign fulltitle = fulltitle | push: title %}
 {% endif %}
-{% if site.title %}
-  {% assign fulltitle = fulltitle | push: site.title %}
+{% if site.shorttitle %}
+  {% assign fulltitle = fulltitle | push: site.shorttitle %}
 {% endif %}
 {% assign fulltitle = fulltitle | join: " | " %}
 
@@ -57,7 +57,7 @@
 <meta name="description" content="{{ description | xml_escape }}">
 
 <meta property="og:title" content="{{ title | xml_escape }}">
-<meta property="og:site_title" content="{{ site.title | xml_escape }}">
+<meta property="og:site_title" content="{{ site.shorttitle | xml_escape }}">
 <meta property="og:description" content="{{ description | xml_escape }}">
 <meta property="og:url" content="{{ url }}">
 <meta property="og:image" content="{{ share }}">
