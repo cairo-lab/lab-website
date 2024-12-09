@@ -1,7 +1,7 @@
 #The risk of shortcutting in deep learning algorithms for medical imaging research
 - id: doi:10.1038/s41598-024-79838-6
   type: paper
-  description: Explores just how pernicious shortcutting can be when using CNNs on medical images. Ask deep learning to find a way to predict something strange from a set of images and far too often it can, whether it makes sense or not.
+  description: Explores just how pernicious shortcutting can be when using CNNs on medical images. Ask deep learning to find a way to predict something strange from a set of images, and far too often, it can, whether it makes sense or not.
   image: images/shortcutting.jpg
   tags:
     - open science
@@ -33,7 +33,7 @@
 # An Algorithmic Approach to Understanding Osteoarthritic Knee Pain
 - id: doi:10.2106/JBJS.OA.23.00039
   type: paper
-  description: "How much of a osteoarthritis patient's pain is structural? This work moves beyond traditional/human derived biomarkers of knee health and sees how much pain can be predicted by a CNN looking at a knee X-ray."
+  description: "How much of an osteoarthritis patient's pain is structural? This work moves beyond traditional/human derived biomarkers of knee health and sees how much pain can be predicted by a CNN looking at a knee X-ray."
   image: images/pred_pain.jpg
   tags:
     - deep learning
