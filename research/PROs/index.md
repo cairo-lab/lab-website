@@ -13,9 +13,9 @@ Why is an AI lab mucking with PROs? Machine learning needs good labels in order 
 
 **PROs vs other measures**
 
-Comparing PROs against other measures isn't new. Most of those studies show varying correllations. By leveraging the OsteoArthritis (OAI) data set, we could do this analysis at a whole new scale. 
+Comparing PROs against other measures isn't new. Most of those studies show varying correlations. By leveraging the OsteoArthritis (OAI) data set, we could do this analysis at a whole new scale. 
 
-So, how do PROs reflect patient performance on standardized functional tests? After all, the goal of total knee arthoplasty is to return funcionality. Turns out the correlations are very weak.
+So, how do PROs reflect patient performance on standardized functional tests? After all, the goal of total knee arthroplasty is to return functionality. Turns out the correlations are very weak.
 
 {% include citation.html lookup="doi:10.1016/j.arth.2023.04.049" style="rich" %}
 
