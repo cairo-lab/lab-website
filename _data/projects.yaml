@@ -1,4 +1,4 @@
-- title: Deep Learning Shortcutting on Medical Images
+- title: Deep Learning on Medical Images
   subtitle: A Cautionary Tale
   group: featured
   image: images/shortcutting.jpg
@@ -43,7 +43,7 @@
     - automation
   link: research/RotatorCuff
 
-- title: Knee Pain and Medical Images
+- title: Osteoarthritic Knee Pain and Medical Images
   image: images/knee_pain.jpg
   description: Radiologists and ortho docs make scales to classify how bad structural damage is to a knee. But how does that match the pain felt by a patient? Can CNNs see things humans miss?
   tags:
@@ -73,7 +73,7 @@
     - robotics
   link: research/FedLearning
 
-- title: Coronal Plane Alignment
+- title: Coronal Plane Alignment of the Knee
   image: images/cpak.jpg
   description: The debates rage on for what is the optimal coronal plane alignment knee (CPAK) strategy. Despite decades of research, each lab uses its own interpretations of how to measure alignment. How about common tool?
   tags:
