@@ -39,7 +39,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  description: How much of a osteoarthritis patient's pain is structural? This work
+  description: How much of an osteoarthritis patient's pain is structural? This work
     moves beyond traditional/human derived biomarkers of knee health and sees how
     much pain can be predicted by a CNN looking at a knee X-ray.
   image: images/pred_pain.jpg
@@ -101,7 +101,7 @@
   type: paper
   description: Explores just how pernicious shortcutting can be when using CNNs on
     medical images. Ask deep learning to find a way to predict something strange from
-    a set of images and far too often it can, whether it makes sense or not.
+    a set of images, and far too often, it can, whether it makes sense or not.
   image: images/shortcutting.jpg
   tags:
   - open science
