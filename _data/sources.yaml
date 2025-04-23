@@ -105,3 +105,7 @@
 # Data plan from: Multimodal and Temporal Modeling Of Knee Osteoarthritis Progression grant
 - id: doi:10.48321/D1NH1D
   remove: true
+
+# Old Paper on the R language
+- id: doi:10.1007/978-3-642-31057-7_6
+  remove: true
