@@ -1,3 +1,21 @@
+# The Discordance Between Pain and Imaging in Knee Osteoarthritis
+- id: doi:10.5435/jaaos-d-24-00509
+  description: "While orthopaedic surgeons intuitively know they can't tell how much pain a patient feels from X-ray or MRI, it hasn't been confirmed. This work does that across almost 5,000 patients."
+  image: images/jaaos.jpg
+  tags:
+    - OAI
+    - PRO
+    - osteoarthritis
+    - medical imaging
+    - pain
+
+# 'The Challenges of Using ChatGPT for Clinical Decision Support in Orthopaedic Surgery: A Pilot Study'  
+- id: doi:10.5435/JAAOS-D-24-01072
+  description: A pilot study looking at how ChatGPT answers compare to those of clinicians.
+  image: images/jaaos.jpg
+  tags:
+    - LLM
+
 #The risk of shortcutting in deep learning algorithms for medical imaging research
 - id: doi:10.1038/s41598-024-79838-6
   type: paper
@@ -71,7 +89,7 @@
   image: images/j_of_arthro.jpg
     
 # Deep Learning and Imaging for the Orthopaedic Surgeon
-- id: doi:10.2106/JBJS.21.01387
+- id: doi:10.2106/jbjs.21.01387
   type: paper
   description: 'Research is now replete with CNN papers. This paper skips the equations and explains how these algorithms "see" in a way a surgeon can understand.'
   image: images/cnns_see_xrays.png
