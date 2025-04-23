@@ -121,19 +121,6 @@
   orcid: 0000-0002-4140-0460
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1007/978-3-642-31057-7_6
-  title: Evaluating the Design of the R Language
-  authors:
-  - "Flor\xE9al Morandat"
-  - Brandon Hill
-  - Leo Osvald
-  - Jan Vitek
-  publisher: Lecture Notes in Computer Science
-  date: '2012-01-01'
-  link: https://doi.org/gpcfgm
-  orcid: 0000-0002-4140-0460
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.5435/JAAOS-D-24-01072
   title: 'The Challenges of Using ChatGPT for Clinical Decision Support in Orthopaedic
     Surgery: A Pilot Study'
