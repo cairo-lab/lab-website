@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.5435/jaaos-d-24-01072
+  title: 'The Challenges of Using ChatGPT for Clinical Decision Support in Orthopaedic
+    Surgery: A Pilot Study'
+  authors:
+  - Michael A. McNamara
+  - Brandon G. Hill
+  - Peter L. Schilling
+  publisher: Journal of the American Academy of Orthopaedic Surgeons
+  date: '2025-03-26'
+  link: https://doi.org/g9bbdc
+  orcid: 0000-0002-4140-0460
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41598-024-79838-6
   title: The risk of shortcutting in deep learning algorithms for medical imaging
     research
@@ -95,23 +108,6 @@
   - osteoarthritis
   - medical imaging
   - OAI
-- id: doi:10.5435/JAAOS-D-24-01072
-  title: 'The Challenges of Using ChatGPT for Clinical Decision Support in Orthopaedic
-    Surgery: A Pilot Study'
-  authors:
-  - Michael A. McNamara
-  - Brandon G. Hill
-  - Peter L. Schilling
-  publisher: Journal of the American Academy of Orthopaedic Surgeons
-  date: '2025-03-26'
-  link: https://doi.org/g9bbdc
-  orcid: 0000-0002-6487-0123
-  plugin: sources.py
-  file: sources.yaml
-  description: A pilot study looking at how ChatGPT answers compare to those of clinicians.
-  image: images/jaaos.jpg
-  tags:
-  - LLM
 - id: doi:10.5435/JAAOS-D-24-00509
   title: The Discordance Between Pain and Imaging in Knee Osteoarthritis
   authors:
@@ -135,6 +131,23 @@
   - osteoarthritis
   - medical imaging
   - pain
+- id: doi:10.5435/JAAOS-D-24-01072
+  title: 'The Challenges of Using ChatGPT for Clinical Decision Support in Orthopaedic
+    Surgery: A Pilot Study'
+  authors:
+  - Michael A. McNamara
+  - Brandon G. Hill
+  - Peter L. Schilling
+  publisher: Journal of the American Academy of Orthopaedic Surgeons
+  date: '2025-03-26'
+  link: https://doi.org/g9bbdc
+  orcid: 0000-0002-6487-0123
+  plugin: sources.py
+  file: sources.yaml
+  description: A pilot study looking at how ChatGPT answers compare to those of clinicians.
+  image: images/jaaos.jpg
+  tags:
+  - LLM
 - id: doi:10.2106/JBJS.21.01387
   title: Deep Learning and Imaging for the Orthopaedic Surgeon
   authors:
